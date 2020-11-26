@@ -1,6 +1,6 @@
 # :smiley: Hello!
 
-My name is Jéssica Silva, I'm 25 years old and I live in Porto. I'm currently working as web developer since 2018. I'm focused on web development/frontend. 
+My name Emilly Shinikov ,I'm  17 years old and I live in Porto. I'm currently working as web developer since 2019. I'm focused on web development/frontend. 
 
 I'm currently trying to increase my knowledge in those areas. :muscle: :pray:
 
