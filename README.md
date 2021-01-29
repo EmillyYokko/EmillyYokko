@@ -1,8 +1,8 @@
 # :smiley: Hello!
 
-## :star: SkillsMy name is borba, I am 17 years old and I live in Rio de Janeiro. I am currently working as a web developer since 2019. I am focused on web / frontend development.
-
 I am currently trying to increase my knowledge in these areas. 💪 🙏
+
+## :star: SkillsMy name is Yokko, I am 17 years old and I live in Rio de Janeiro. I am currently working as a web developer since 2019. I am focused on web / frontend development.
 
 ![html](https://user-images.githubusercontent.com/24191107/97038492-d33e8400-1562-11eb-861b-8dc25c69bd07.png)
 ![css](https://user-images.githubusercontent.com/24191107/97038491-d33e8400-1562-11eb-9cb9-ffad2f0da628.png)
